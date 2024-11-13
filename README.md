@@ -10,8 +10,6 @@ Data Description:
 The of the gyroscope is to measure the rate of rotation of an object,while the accelerometer measures the change acceleration of a free falling object or vertically moving object.The sensors are placed on the right and left ankle and wrist.
 
 Activity Set(class labels):
-
-  The activity set is listed in the following:
   
 L1: Standing still (1 min)
 
